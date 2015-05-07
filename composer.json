@@ -1,0 +1,18 @@
+{
+  "name": "phant0m4o4/phpdioserial",
+  "description": "serail port control lib use php_dio",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "phant0m4o4",
+      "email": "WTF@donotsendto.me"
+    }
+  ],
+  "autoload":
+  {
+    "psr-4":
+    {
+      "PHPDioSerial\\": "src/"
+    }
+  }
+}
