@@ -1,0 +1,3 @@
+# PhpDioSerial
+
+compser install phpdioserial
